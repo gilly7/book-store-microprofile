@@ -14,3 +14,5 @@ URI Definition
 | PUT   | http://localhost:8080/restapi/books/1 | Update the Book whose ID is 1 |
 |DELETE | http://localhost:8080/restapi/books/1 | Delete the Book whose ID is 1 |
 
+
+Inspired by this [resource](https://cicekhayri.github.io/ebook-Building-an-API-Backend-with-MicroProfile/building-an-api-backend-with-microprofile.html)
